@@ -1,0 +1,15 @@
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGA_ClaudeVersion\KnapsackGA_ClaudeVersion\bin\Debug\net10.0\KnapsackGA_ClaudeVersion.exe
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGA_ClaudeVersion\KnapsackGA_ClaudeVersion\bin\Debug\net10.0\KnapsackGA_ClaudeVersion.deps.json
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGA_ClaudeVersion\KnapsackGA_ClaudeVersion\bin\Debug\net10.0\KnapsackGA_ClaudeVersion.runtimeconfig.json
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGA_ClaudeVersion\KnapsackGA_ClaudeVersion\bin\Debug\net10.0\KnapsackGA_ClaudeVersion.dll
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGA_ClaudeVersion\KnapsackGA_ClaudeVersion\bin\Debug\net10.0\KnapsackGA_ClaudeVersion.pdb
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGA_ClaudeVersion\KnapsackGA_ClaudeVersion\obj\Debug\net10.0\KnapsackGA_ClaudeVersion.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGA_ClaudeVersion\KnapsackGA_ClaudeVersion\obj\Debug\net10.0\KnapsackGA_ClaudeVersion.AssemblyInfoInputs.cache
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGA_ClaudeVersion\KnapsackGA_ClaudeVersion\obj\Debug\net10.0\KnapsackGA_ClaudeVersion.AssemblyInfo.cs
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGA_ClaudeVersion\KnapsackGA_ClaudeVersion\obj\Debug\net10.0\KnapsackGA_ClaudeVersion.csproj.CoreCompileInputs.cache
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGA_ClaudeVersion\KnapsackGA_ClaudeVersion\obj\Debug\net10.0\KnapsackGA_ClaudeVersion.dll
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGA_ClaudeVersion\KnapsackGA_ClaudeVersion\obj\Debug\net10.0\refint\KnapsackGA_ClaudeVersion.dll
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGA_ClaudeVersion\KnapsackGA_ClaudeVersion\obj\Debug\net10.0\KnapsackGA_ClaudeVersion.pdb
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGA_ClaudeVersion\KnapsackGA_ClaudeVersion\obj\Debug\net10.0\KnapsackGA_ClaudeVersion.genruntimeconfig.cache
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGA_ClaudeVersion\KnapsackGA_ClaudeVersion\obj\Debug\net10.0\ref\KnapsackGA_ClaudeVersion.dll
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGA_ClaudeVersion\KnapsackGA_ClaudeVersion\obj\Debug\net10.0\Knapsack.3F220BC4.Up2Date

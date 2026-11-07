@@ -1,0 +1,15 @@
+D:\University\3 Semester\PA\Lab 3\Programs\Part_2\TspBees_ClaudeVersion\TspBees_ClaudeVersion\bin\Debug\net10.0\TspBees_ClaudeVersion.exe
+D:\University\3 Semester\PA\Lab 3\Programs\Part_2\TspBees_ClaudeVersion\TspBees_ClaudeVersion\bin\Debug\net10.0\TspBees_ClaudeVersion.deps.json
+D:\University\3 Semester\PA\Lab 3\Programs\Part_2\TspBees_ClaudeVersion\TspBees_ClaudeVersion\bin\Debug\net10.0\TspBees_ClaudeVersion.runtimeconfig.json
+D:\University\3 Semester\PA\Lab 3\Programs\Part_2\TspBees_ClaudeVersion\TspBees_ClaudeVersion\bin\Debug\net10.0\TspBees_ClaudeVersion.dll
+D:\University\3 Semester\PA\Lab 3\Programs\Part_2\TspBees_ClaudeVersion\TspBees_ClaudeVersion\bin\Debug\net10.0\TspBees_ClaudeVersion.pdb
+D:\University\3 Semester\PA\Lab 3\Programs\Part_2\TspBees_ClaudeVersion\TspBees_ClaudeVersion\obj\Debug\net10.0\TspBees_ClaudeVersion.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3 Semester\PA\Lab 3\Programs\Part_2\TspBees_ClaudeVersion\TspBees_ClaudeVersion\obj\Debug\net10.0\TspBees_ClaudeVersion.AssemblyInfoInputs.cache
+D:\University\3 Semester\PA\Lab 3\Programs\Part_2\TspBees_ClaudeVersion\TspBees_ClaudeVersion\obj\Debug\net10.0\TspBees_ClaudeVersion.AssemblyInfo.cs
+D:\University\3 Semester\PA\Lab 3\Programs\Part_2\TspBees_ClaudeVersion\TspBees_ClaudeVersion\obj\Debug\net10.0\TspBees_ClaudeVersion.csproj.CoreCompileInputs.cache
+D:\University\3 Semester\PA\Lab 3\Programs\Part_2\TspBees_ClaudeVersion\TspBees_ClaudeVersion\obj\Debug\net10.0\TspBees_ClaudeVersion.dll
+D:\University\3 Semester\PA\Lab 3\Programs\Part_2\TspBees_ClaudeVersion\TspBees_ClaudeVersion\obj\Debug\net10.0\refint\TspBees_ClaudeVersion.dll
+D:\University\3 Semester\PA\Lab 3\Programs\Part_2\TspBees_ClaudeVersion\TspBees_ClaudeVersion\obj\Debug\net10.0\TspBees_ClaudeVersion.pdb
+D:\University\3 Semester\PA\Lab 3\Programs\Part_2\TspBees_ClaudeVersion\TspBees_ClaudeVersion\obj\Debug\net10.0\TspBees_ClaudeVersion.genruntimeconfig.cache
+D:\University\3 Semester\PA\Lab 3\Programs\Part_2\TspBees_ClaudeVersion\TspBees_ClaudeVersion\obj\Debug\net10.0\ref\TspBees_ClaudeVersion.dll
+D:\University\3 Semester\PA\Lab 3\Programs\Part_2\TspBees_ClaudeVersion\TspBees_ClaudeVersion\obj\Debug\net10.0\TspBees_.49EE85AF.Up2Date

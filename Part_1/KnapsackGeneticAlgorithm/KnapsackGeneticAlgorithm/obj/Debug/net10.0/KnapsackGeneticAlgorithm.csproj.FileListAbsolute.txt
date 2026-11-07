@@ -1,0 +1,15 @@
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGeneticAlgorithm\KnapsackGeneticAlgorithm\bin\Debug\net10.0\KnapsackGeneticAlgorithm.exe
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGeneticAlgorithm\KnapsackGeneticAlgorithm\bin\Debug\net10.0\KnapsackGeneticAlgorithm.deps.json
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGeneticAlgorithm\KnapsackGeneticAlgorithm\bin\Debug\net10.0\KnapsackGeneticAlgorithm.runtimeconfig.json
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGeneticAlgorithm\KnapsackGeneticAlgorithm\bin\Debug\net10.0\KnapsackGeneticAlgorithm.dll
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGeneticAlgorithm\KnapsackGeneticAlgorithm\bin\Debug\net10.0\KnapsackGeneticAlgorithm.pdb
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGeneticAlgorithm\KnapsackGeneticAlgorithm\obj\Debug\net10.0\KnapsackGeneticAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGeneticAlgorithm\KnapsackGeneticAlgorithm\obj\Debug\net10.0\KnapsackGeneticAlgorithm.AssemblyInfoInputs.cache
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGeneticAlgorithm\KnapsackGeneticAlgorithm\obj\Debug\net10.0\KnapsackGeneticAlgorithm.AssemblyInfo.cs
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGeneticAlgorithm\KnapsackGeneticAlgorithm\obj\Debug\net10.0\KnapsackGeneticAlgorithm.csproj.CoreCompileInputs.cache
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGeneticAlgorithm\KnapsackGeneticAlgorithm\obj\Debug\net10.0\KnapsackGeneticAlgorithm.dll
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGeneticAlgorithm\KnapsackGeneticAlgorithm\obj\Debug\net10.0\refint\KnapsackGeneticAlgorithm.dll
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGeneticAlgorithm\KnapsackGeneticAlgorithm\obj\Debug\net10.0\KnapsackGeneticAlgorithm.pdb
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGeneticAlgorithm\KnapsackGeneticAlgorithm\obj\Debug\net10.0\KnapsackGeneticAlgorithm.genruntimeconfig.cache
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGeneticAlgorithm\KnapsackGeneticAlgorithm\obj\Debug\net10.0\ref\KnapsackGeneticAlgorithm.dll
+D:\University\3 Semester\PA\Lab 3\Programs\Part_1\KnapsackGeneticAlgorithm\KnapsackGeneticAlgorithm\obj\Debug\net10.0\Knapsack.0352A817.Up2Date

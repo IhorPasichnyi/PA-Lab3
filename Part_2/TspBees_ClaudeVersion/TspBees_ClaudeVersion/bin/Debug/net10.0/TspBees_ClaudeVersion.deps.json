@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TspBees_ClaudeVersion/1.0.0": {
+        "runtime": {
+          "TspBees_ClaudeVersion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TspBees_ClaudeVersion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
